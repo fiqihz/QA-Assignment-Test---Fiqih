@@ -1,9 +1,8 @@
 # QA Assignment Test – Senior Specialist QA
 
-## 👤 Profile
+## Profile
 Name: Andi Fiqih Zulfikar Ashari  
-Role: QA Engineer  
-Tools Used: Katalon Studio, MySQL, DBeaver, Postman  
+Tools Used: Katalon Studio, MySQL, DBeaver 
 
 ---
 
@@ -25,7 +24,7 @@ SDLC is a structured approach used to build software step by step, from planning
 - Preparing all the test data that we need in the testing phase (User account, surrounding cases and etc).
 - Prepare test cases, and determine which cases can be automate.
 
-### 🧪 Testing
+### Testing
 - Execute all the functional test cases also include negative, boundary and edge cases are meet the acceptance criteria.
 - Analyze the root cause of each bugs, it is come from BE / FE.
 - Confirm the Bugs to the developers.
@@ -81,7 +80,7 @@ Automation Features:
 Website Tested:
 https://www.saucedemo.com/
 
-## 📄 Manual Test Cases (Google Docs)
+## Manual Test Cases (Google Docs)
 UI Test Case Document (Sheets Saucedemo UI):
 https://docs.google.com/spreadsheets/d/1Qhf4XtKeGR6Nw7AG8x8RH05qgZxtq2jTeSyi7t7HW1o/edit?usp=sharing
 
@@ -90,7 +89,7 @@ Test Coverage:
 - Error message validation
 - Redirect validation
 
-## 🤖 UI Automation Repository
+## UI Automation Repository
 GitHub Repository:
 https://github.com/fiqihz/saucedemo-project
 
